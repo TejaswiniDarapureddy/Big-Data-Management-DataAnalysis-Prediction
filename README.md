@@ -1,1 +1,1 @@
-# Big-Data-Management-DataAnalysis-Prediction
+# Big-Data-Management-DataAnalysis-PredictionIn this task, we will perform cleaning on a given dataset and then use two prediction algorithms, Linear Regression and Random Forest, to predict a target variable. We will measure the accuracy of our predictions using Root Mean Squared Error (RMSE) and R-squared (R2) metrics. To efficiently process the data and build our models, we will create a Spark pipeline that will help us streamline the data processing steps and make it easier to deploy our models at scale.
